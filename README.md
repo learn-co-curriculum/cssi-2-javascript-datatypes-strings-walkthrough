@@ -1,8 +1,4 @@
----
-tags: cssi, javascript
-level: 1
-languages: javascript
----
+
 #Javascript Data Types and String Methods
 
 After the lesson, you'll be able to understand:
