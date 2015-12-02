@@ -91,3 +91,5 @@ Given the string  var text = "ELEPHANTBEARMOUSECOW" , make the 'MOUSE' portion i
 
 Not sure how? Remember you can also search the web for documentation on js
 string methods, talk to a classmate, or consult your ducky droid!
+
+<a href='https://learn.co/lessons/cssi-2-javascript-datatypes-strings-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
